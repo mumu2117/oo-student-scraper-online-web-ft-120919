@@ -32,3 +32,4 @@ def initialize(student_hash)
     @@all
   end
 end 
+
